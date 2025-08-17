@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Home
+title: QuollSec
 ---
 
-Welcome to **QuollSec**. More coming soon...
+<div class="intro">
+  QuollSec is awake. This space is under nocturnal construction.
+</div>
